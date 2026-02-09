@@ -1,7 +1,7 @@
 Here is the English translation maintaining the original context and preserving filenames in quotes:
 
 A cold joke group chat bot implemented based on the QQ Open Platform and Python-Flask  
-Cold joke sources: 60s.viki.moe or local online joke database  
+Cold joke sources: 60s.viki.moe or local joke database  
 
 Using this series of programs may require providing the following parameters:  
 APP_ID  
