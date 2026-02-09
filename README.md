@@ -1,4 +1,4 @@
-一款基于QQ开放平台和Python-qq-botpy实现的冷笑话群聊机器人  
+一款基于QQ开放平台和Python-flask实现的冷笑话群聊机器人  
 冷笑话来源60s.viki.moe 或 本地在线笑话库  
 使用此系列程序可能需要提供以下参数: 
 APP_ID  
